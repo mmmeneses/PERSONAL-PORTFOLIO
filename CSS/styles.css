@@ -131,6 +131,29 @@ footer {
     font-size: 1.15rem;
 }
 
+/* CERTIFICATES SECTION */
+
+.cert-list {
+    font-family: 'space mono', sans-serif, serif;
+    font-size: 1.15rem;
+}
+
+
+
+a, .certi-copy {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+/* revisar porque slectores con se comportantan como debrian
+
+.certi-copy a:hover {
+    background-color: #ddd;
+}
+
+*/
+
 /* PROJECT GALLERY SECTION */
 
 .project-pic {
