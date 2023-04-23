@@ -45,7 +45,7 @@ footer {
 /* Links indide the navbar */
 
 .navbar a {
-    float: right;
+    float: left;
     font-size: 1.25rem;
     color: #000000;
     text-align: center;
