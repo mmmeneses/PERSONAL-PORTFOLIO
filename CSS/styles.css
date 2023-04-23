@@ -144,6 +144,8 @@ a, .certi-copy {
     text-decoration: none;
     color: black;
     font-weight: bold;
+    font-family: 'space mono', sans-serif, serif;
+    font-size: 1.15rem;
 }
 
 /* revisar porque slectores con se comportantan como debrian
