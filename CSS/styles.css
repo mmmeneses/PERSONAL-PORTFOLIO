@@ -6,6 +6,10 @@ h1 {
     font-family: Roboto, sans-serif, serif;
 }
 
+h2 {
+    font-family: 'space mono', sans-serif, serif; 
+}
+
 h3 {
     font-family: 'space mono', sans-serif, serif;
     font-weight: 300;
