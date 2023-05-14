@@ -215,12 +215,12 @@ a, .certi-copy {
         font-family: 'space mono', sans-serif, serif;
     }
 
-    body {
-        width: 75%;
+    div {
+        width: 65%;
     }
 
     .project-pic {
-        max-width: 150px;
+        max-width: 50px;
     }
 }
 
@@ -230,12 +230,12 @@ a, .certi-copy {
         font-family: 'space mono', sans-serif, serif;
     }
 
-    body {
-        max-width: 75%;
+    div {
+        width: 50%;
     }
 
     .project-pic {
-        max-width: 150px;
+        max-width: 50px;
     }
 }
 
@@ -245,12 +245,12 @@ a, .certi-copy {
         font-family: 'space mono', sans-serif, serif;
     }
 
-    body {
-        width: 75%;
+    div {
+        width: 50%;
     }
 
     .project-pic {
-        max-width: 150px;
+        max-width: 50px;
     }
 }
 
@@ -260,11 +260,11 @@ a, .certi-copy {
         font-family: 'space mono', sans-serif, serif;
     }
 
-    body {
-        width: 65%;
+    div {
+        width: 50%;
     }
 
     .project-pic {
-        max-width: 100px;
+        max-width: 50px;
     }
 }
