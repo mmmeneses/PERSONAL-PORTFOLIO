@@ -220,7 +220,7 @@ a, .certi-copy {
     }
 
     .project-pic {
-        max-width: 60%;
+        max-width: 100%;
     }
 }
 
@@ -235,7 +235,7 @@ a, .certi-copy {
     }
 
     .project-pic {
-        max-width: 60%;
+        max-width: 100%;
     }
 }
 
@@ -246,11 +246,11 @@ a, .certi-copy {
     }
 
     div {
-        width: 65%;
+        width: 60%;
     }
 
     .project-pic {
-        max-width: 60%;
+        max-width: 100%;
     }
 }
 
@@ -265,6 +265,6 @@ a, .certi-copy {
     }
 
     .project-pic {
-        max-width: 60%;
+        max-width: 100%;
     }
 }
