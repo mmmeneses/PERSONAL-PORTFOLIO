@@ -198,6 +198,9 @@ a, .certi-copy {
     p ¨{
         font-size: 1.125rem;
         font-family: 'space mono';
+    }
+    body {
+        width: 80%;
     } 
 }
 
