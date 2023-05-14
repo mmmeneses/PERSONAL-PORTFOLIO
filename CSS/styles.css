@@ -201,6 +201,7 @@ a, .certi-copy {
     }
     div {
         width: 80%;
+        justify-content: center;
     } 
     .project-pic {
         max-width: 150px;
