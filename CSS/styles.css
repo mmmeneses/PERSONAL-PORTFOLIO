@@ -197,7 +197,7 @@ a, .certi-copy {
 @media only screen and (max-width: 600px) {
     p ¨{
         font-size: 1.125rem;
-        font-family: 'space mono';
+        font-family: 'space mono', sans-serif, serif;
     }
     body {
         width: 80%;
@@ -210,17 +210,61 @@ a, .certi-copy {
 /* THIS SCREEN SOZE FOR TABLETS*/
 
 @media only screen and (min-width: 600px) {
+    p {
+        font-family: 1.23rem;
+        font-family: 'space mono', sans-serif, serif;
+    }
 
+    body {
+        width: 75%;
+    }
+
+    img {
+        width: 150px;
+    }
 }
 
 @media only screen and (min-width: 768px) {
+    p {
+        font-family: 1.23rem;
+        font-family: 'space mono', sans-serif, serif;
+    }
 
+    body {
+        width: 75%;
+    }
+
+    img {
+        width: 150px;
+    }
 }
 
 @media only screen and (min-width: 992px ) {
+    p {
+        font-family: 1.23rem;
+        font-family: 'space mono', sans-serif, serif;
+    }
 
+    body {
+        width: 75%;
+    }
+
+    img {
+        width: 150px;
+    }
 }
 
 @media only screen and (min-width: 1200px) {
+    p {
+        font-family: 1.23rem;
+        font-family: 'space mono', sans-serif, serif;
+    }
 
+    body {
+        width: 75%;
+    }
+
+    img {
+        width: 150px;
+    }
 }
