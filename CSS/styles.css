@@ -199,7 +199,7 @@ a, .certi-copy {
         font-size: 1.125rem;
         font-family: 'space mono', sans-serif, serif;
     }
-    body {
+    div {
         width: 80%;
     } 
     .project-pic {
@@ -220,7 +220,7 @@ a, .certi-copy {
     }
 
     .project-pic {
-        max-width: 200px;
+        max-width: 60%;
     }
 }
 
@@ -235,7 +235,7 @@ a, .certi-copy {
     }
 
     .project-pic {
-        max-width: 200px;
+        max-width: 60%;
     }
 }
 
@@ -250,7 +250,7 @@ a, .certi-copy {
     }
 
     .project-pic {
-        max-width: 200px;
+        max-width: 60%;
     }
 }
 
@@ -265,6 +265,6 @@ a, .certi-copy {
     }
 
     .project-pic {
-        max-width: 200px;
+        max-width: 60%;
     }
 }
