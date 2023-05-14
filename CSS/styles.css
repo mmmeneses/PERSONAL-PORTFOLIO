@@ -202,6 +202,9 @@ a, .certi-copy {
     body {
         width: 80%;
     } 
+    img {
+        width: 150px;
+    }
 }
 
 /* THIS SCREEN SOZE FOR TABLETS*/
