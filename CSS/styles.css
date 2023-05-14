@@ -201,7 +201,7 @@ a, .certi-copy {
     }
     div {
         width: 80%;
-        margin: auto;
+        margin: 0 auto;
     } 
     .project-pic {
         max-width: 150px;
@@ -218,7 +218,7 @@ a, .certi-copy {
 
     div {
         width: 65%;
-        margin: auto;
+        margin: 0 auto;
     }
 
     .project-pic {
@@ -234,7 +234,7 @@ a, .certi-copy {
 
     div {
         width: 65%;
-        margin: auto;
+        margin: 0 auto;
     }
 
     .project-pic {
@@ -250,7 +250,7 @@ a, .certi-copy {
 
     div {
         width: 60%;
-        margin: auto;
+        margin: 0 auto;
     }
 
     .project-pic {
@@ -266,7 +266,7 @@ a, .certi-copy {
 
     div {
         width: 65%;
-        margin: auto;
+        margin:0 auto;
     }
 
     .project-pic {
