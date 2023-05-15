@@ -200,7 +200,7 @@ a, .certi-copy {
         font-family: 'space mono', sans-serif, serif;
     }
     div {
-        width: 80%;
+        width: 90%;
         margin: 0 auto; /* removed the property margin: 0 auto; */
     } 
     .project-pic {
