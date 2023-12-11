@@ -194,11 +194,11 @@ a, .certi-copy {
 
 /* hide navigation menu on smaller screens */
 
-@media screen and (max-width: 768px) {
+/* @media screen and (max-width: 768px) {
     #navbar {
         display: none;
     }
-}
+} */
 
 /* THIS SCREEN SOZE FOR MOBILE PHONE*/
 
