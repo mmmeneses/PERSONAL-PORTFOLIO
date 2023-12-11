@@ -192,6 +192,14 @@ a, .certi-copy {
 
 /* SCREEN RESPONSIVE SECTION */
 
+/* hide navigation menu on smaller screens */
+
+@media screen and (max-width: 768px) {
+    #navbar {
+        display: none;
+    }
+}
+
 /* THIS SCREEN SOZE FOR MOBILE PHONE*/
 
 @media only screen and (max-width: 600px) {
