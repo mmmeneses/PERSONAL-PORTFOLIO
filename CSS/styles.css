@@ -23,10 +23,6 @@ body {
     display: flex; /* added to see if the responsive behaviour */
 }
 
-.center {
-    width: 50%;
-    margin: auto;
-}
 
 p {
     font-family: 'space mono', sans-serif, serif;
