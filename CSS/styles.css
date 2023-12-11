@@ -20,6 +20,7 @@ body {
     background-color: #f8f870;
     margin: 0 auto;
     padding: 30px;
+    display: flex; /* added to see if the responsive behaviour */
 }
 
 p {
@@ -191,6 +192,14 @@ a, .certi-copy {
 }
 
 /* SCREEN RESPONSIVE SECTION */
+
+/* hide navigation menu on smaller screens */
+
+/* @media screen and (max-width: 768px) {
+    #navbar {
+        display: none;
+    }
+} */
 
 /* THIS SCREEN SOZE FOR MOBILE PHONE*/
 
