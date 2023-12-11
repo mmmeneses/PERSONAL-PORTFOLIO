@@ -2,16 +2,11 @@ html {
     font-size: 16px;
 }
 
-h1 {
+h1, h2, h3, p, footer {
     font-family: 'space mono', sans-serif, serif;
-}
-
-h2 {
-    font-family: 'space mono', sans-serif, serif; 
 }
 
 h3 {
-    font-family: 'space mono', sans-serif, serif;
     font-weight: 300;
     padding-top: 30px;
 }
@@ -23,12 +18,16 @@ body {
 }
 
 p {
-    font-family: 'space mono', sans-serif, serif;
     font-size: 1.15rem;
 }
 
+.center {
+    justify-content: center;
+    margin: 0 auto;
+    width: 82%;
+}
+
 footer {
-    font-family: 'space mono', sans-serif, serif;
     justify-content: center;
     margin: 0 auto;
     display: flex;
