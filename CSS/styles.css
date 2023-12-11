@@ -189,6 +189,8 @@ a, .certi-copy {
     color:rgba(0, 0, 0, 0.5);
 }
 
+/* NECESITO REVISAR @MEDIA QUERY */
+
 /* SCREEN RESPONSIVE SECTION */
 
 /* hide navigation menu on smaller screens */
@@ -201,7 +203,7 @@ a, .certi-copy {
 
 /* THIS SCREEN SOZE FOR MOBILE PHONE*/
 
-@media only screen and (max-width: 600px) {
+/* @media only screen and (max-width: 600px) {
     p ¨{
         font-size: 1.125rem;
         font-family: 'space mono', sans-serif, serif;
@@ -210,12 +212,12 @@ a, .certi-copy {
         width: 90%;
         margin: 0 auto; /* removed the property margin: 0 auto; */
     } 
-    .project-pic {
+   /* .project-pic {
         max-width: 150px;
     }
-}
+} 
 
-/* THIS SCREEN SOZE FOR TABLETS*/
+/* THIS SCREEN SOZE FOR TABLETS
 
 @media only screen and (min-width: 600px) {
     p {
@@ -226,9 +228,9 @@ a, .certi-copy {
     div {
         width: 80%;
          /* removed the property margin: 0 auto; */
-    }
+    /* }
 
-    .project-pic {
+    /* .project-pic {
         max-width: 400px;
     }
 }
@@ -242,7 +244,7 @@ a, .certi-copy {
     div {
         width: 80%;
          /* removed the property margin: 0 auto; */
-    }
+   /* } 
 
     .project-pic {
         max-width: 400px;
@@ -258,7 +260,7 @@ a, .certi-copy {
     div {
         width: 80%;
          /* removed the property margin: 0 auto; */
-    }
+  /*  }
 
     .project-pic {
         max-width: 400px;
@@ -274,9 +276,11 @@ a, .certi-copy {
     div {
         width: 80%;
          /* removed the property margin: 0 auto; */
-    }
+    } 
 
-    .project-pic {
+   /* .project-pic {
         max-width: 400px;
-    }
-}
+    } 
+} */
+
+
