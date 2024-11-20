@@ -2,7 +2,7 @@ function updateBackgroundColor() {
     const currentHour = new Date().getHours();
     const body = document.body;
     const navbar = document.getElementById('navbar'); // selecciona la barra de navegacion
-    const textElements = document.querySelectorAll('h1, h2, h3, p, a, ul, buttom, footer'); // selecciona los elementos de texto
+    const textElements = document.querySelectorAll('h1, h2, h3, p, a, ul, i, buttom, footer'); // selecciona los elementos de texto
 
     if(currentHour >= 18 || currentHour < 6) {
         
