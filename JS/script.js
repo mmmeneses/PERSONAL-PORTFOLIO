@@ -25,7 +25,7 @@ function updateBackgroundColor() {
         dropdownLinks.forEach(link => {
             link.style.color = 'white'; // Cambia el color de los enlaces dentro del dropdown a blanco
 
-            link.style.backgorundColor = 'midnightblue';
+            link.style.backgroundColor = 'midnightblue';
         });
     } else {
         // De 6 AM a 6 PM
