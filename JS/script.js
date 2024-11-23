@@ -41,7 +41,7 @@ function updateBackgroundColor() {
         dropdownLinks.forEach(link => {
             link.style.color = 'black'; // Cambia el color de los enlaces dentro del dropdpwn a negro
 
-            link.style.backgroundColor = 'midnightblue'; // Cambia el color del fondo de los enlaces en el dropdown 
+            link.style.backgroundColor = '#f8f870'; // Cambia el color del fondo de los enlaces en el dropdown 
         })
     }
 }
